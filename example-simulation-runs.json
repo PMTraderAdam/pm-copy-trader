@@ -1,0 +1,20 @@
+{
+  "description": "Simulated terminal runs (market conditions vary)",
+  "runs": [
+    {
+      "startingBalanceUsd": 100,
+      "perTradeSizeUsd": 10,
+      "profitUsd": 40
+    },
+    {
+      "startingBalanceUsd": 500,
+      "perTradeSizeUsd": 50,
+      "profitUsd": 300
+    },
+    {
+      "startingBalanceUsd": 1000,
+      "perTradeSizeUsd": 100,
+      "profitUsd": 500
+    }
+  ]
+}
