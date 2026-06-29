@@ -1,4 +1,4 @@
-**PMTraderAdamBot — Open-source Polymarket Copytrading Bot**
+# PMTraderAdamBot — Open-source Polymarket Copytrading Bot**
 
 > **Open-source TypeScript bot** that automatically mirrors top Polymarket traders in real time.  
 > Follow profitable wallets across any market (crypto, elections, sports, macro, etc.).
