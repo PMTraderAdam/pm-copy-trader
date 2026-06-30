@@ -1,9 +1,9 @@
-# PMTraderAdamBot — Open-source Polymarket Copytrading Bot
+# PMTraderAdamBot — Open-source Polymarket Trading Bot that makes $500 per Day
 
 > **Open-source TypeScript bot** that automatically mirrors top Polymarket traders in real time.  
 > Follow profitable wallets across any market (crypto, elections, sports, macro, etc.).
 
-**Repository:** [github.com/PMTraderAdam/pm-copy-trader](https://github.com/PMTraderAdam/pm-copy-trader)
+**Repository:** [github.com/PMTraderAdam/pm-trader-adam-500-per-day-bot](https://github.com/PMTraderAdam/pm-trader-adam-500-per-day-bot)
 **Author:** [@PMTraderAdam](https://github.com/PMTraderAdam)
 
 This bot connects to Polymarket’s APIs, monitors one or more target wallets (or a dynamic leaderboard), detects their trades, and replicates them in your wallet with customizable sizing, risk limits, and filters.
