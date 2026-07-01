@@ -19,7 +19,7 @@ Live results from the strategy this bot automates — consistent execution acros
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="data/1B0Zz6mT.png" alt="Polymarket profile overview with total profit and biggest wins" width="420" />
+      <img src="data/image (1).jpg" alt="Polymarket profile overview with total profit and biggest wins" width="420" />
       <p><strong>All-time edge</strong><br />
       <sub>+$22K realized profit with a steady equity curve and documented high-conviction wins across sports, tech, and macro markets.</sub></p>
     </td>
