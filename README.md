@@ -24,7 +24,7 @@ Live results from the strategy this bot automates — consistent execution acros
       <sub>+$22K realized profit with a steady equity curve and documented high-conviction wins across sports, tech, and macro markets.</sub></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="data/HKqeD_mWIAA2e8z.jpg" alt="Polymarket profile dashboard showing profit and loss chart" width="420" />
+      <img src="data/image (2).jpg" alt="Polymarket profile dashboard showing profit and loss chart" width="420" />
       <p><strong>Live dashboard</strong><br />
       <sub>900+ resolved predictions, $27K+ positions value, and a compounding PnL curve — the same execution stack this binary runs in production.</sub></p>
     </td>
