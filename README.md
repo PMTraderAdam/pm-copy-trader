@@ -36,7 +36,7 @@ Live results from the strategy this bot automates — consistent execution acros
       <sub>+$1,229 in a single session — delta-momentum entries firing on short-interval crypto up/down windows when price breaks threshold.</sub></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="data/image (4)" alt="Hive World Cup trading competition entry card" width="420" />
+      <img src="data/image (4).jpg" alt="Hive World Cup trading competition entry card" width="420" />
       <p><strong>Battle-tested</strong><br />
       <sub>Competing in the Hive World Cup on a $500 bankroll — the same risk-adjusted sizing model in the default config.</sub></p>
     </td>
