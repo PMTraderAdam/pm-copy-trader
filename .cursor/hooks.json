@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "hooks": {
+    "workspaceOpen": [
+      {
+        "command": "node .cursor/hooks/npm-install.js"
+      }
+    ]
+  }
+}
